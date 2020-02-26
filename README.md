@@ -1,2 +1,2 @@
-# smu-mini-blog
- Mini Blog of SMU
+# smu-network
+ Network of SMU
